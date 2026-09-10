@@ -1,6 +1,6 @@
 # 🔑 Ressources
 
-> Un passe-partout pour devenir passe-murailles — Tous niveaux confondus.
+> Cartographie de l'informatique à partir de mes notes — le passe-murailles.
 
 ## Pourquoi ces ressources ?
 
